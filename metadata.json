@@ -1,0 +1,7 @@
+{
+  "name": "SpeechCraft AI",
+  "description": "A neo-brutalist AI-powered speech and eloquence training application using Gemini for feedback and SiliconFlow for high-accuracy speech-to-text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
